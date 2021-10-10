@@ -1,0 +1,259 @@
+html { 
+  background: url(img2.png); 
+}
+#div1 {
+    width:70%;
+    position: absolute;
+    left:150px;
+    font-size: 25px;
+    font-family:'Lobster', cursive;
+    -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+   
+}
+
+#div2 {
+  position: absolute;
+  top: 150px;
+  left: 200px;
+    font-family:'Lobster', cursive;
+    -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+}
+#div3 {
+  width: 50%;
+  position:absolute;
+  top:350px;
+  left:275px;
+    -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+    -webkit-border-radius: 30px;
+}
+
+#s-h1{
+font-family:'Lobster', cursive;
+}
+#s1{
+font-size: 15px;
+}
+
+a{
+text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+    color: #000000;
+}
+
+/* visited link */
+a:visited {
+    color: #000000;
+}
+
+/* mouse over link */
+a:hover {
+    color: #58D3F7;
+}
+
+/* selected link */
+a:active {
+    color: #2EFE2E;
+}
+#div4 {
+  -webkit-border: 10px solid black;
+  -webkit-border-radius: 25px;
+  font-family:'Lobster', cursive;
+  font-size: 25px;
+  width: 60%;
+  position:absolute;
+  top:600px;
+  left:225px;
+    -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+}
+
+#f1 {
+font-family:"Arial Black", Gadget, sans-serif	
+
+}
+
+ul {
+
+  font-size: 18px;
+   list-style-image: url('http://render.fineartamerica.com/images-framed-small/images-small-5/bahamas-flag-vintage-distressed-finish-design-turnpike.jpg');
+}
+
+li{ 
+  list-style-type:none;
+}
+#div5{
+width: 10%;
+-webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+
+}
+#p-back{
+  position: absolute;
+  top: 250px;
+  font-size: 5px;
+  color: #47D1FF;
+width: 100px;
+height: 50px;
+}
+
+#bottom-1 {
+
+position: absolute;
+bottom: -900px;
+left: 335px;
+}
+
+#bottom1 {
+
+width: 350px;
+height: 150px;
+}
+
+#divimage{
+
+  -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+
+}
+
+#h1team {
+text-align: center;
+font-size: 20px;
+-webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+position: absolute;
+top: 300px;
+left: 100px;
+}
+
+#divteam {
+  text-align: center;
+  -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;  
+  position: absolute;
+  top: 400px;
+  left: 315px;
+}
+
+#resources {
+  -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+  position:absolute;
+  top: 800px;
+  left: 345px;
+}
+#num-0 {
+position: absolute;
+top: 300px;
+left: 250px;
+width: 700px;
+-webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+
+}
+#num-1 {
+  position:absolute;
+  top:450px;
+  border: 7px #EBC96C solid;
+  border-radius: 100px;
+  width: 300px;
+  height: 200px;
+}
+#num-2 {
+  top:450px;
+  border: 7px #EBC96C solid;
+  border-radius: 100px;
+  width: 100px;
+}
+
+#animals {
+    -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+  position: absolute;
+  top: 600px;
+  left: 190px;
+  width: 835px;
+  font-family: 'Chewy', cursive;
+  font-size: 25px;
+  padding: 50px;
+
+}
+
+#wild {
+
+  font-family: 'Chewy', cursive;
+  font-size: 20px;
+}
+#enter_1{
+
+      -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+      position: absolute;
+      top: 300px;
+      left: 135px;
+      width: 865px;
+}
+
+#ul_5{
+
+font-family: 'Righteous', cursive;}
+
+#hotel_1 {
+
+        -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+        position: absolute;
+        top: 400px;
+        left: 200px;
+        width:750px;
+        font-family: 'Courgette', cursive;
+}
+
+#hotel_2 {
+
+        -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+        position: absolute;
+        top: 855px;
+        left: 200px;
+        width: 750px;
+        font-family: 'Courgette', cursive;
+}
+
+
+#currency {
+  -webkit-border-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaJ6aQp9Cn08UHOdK957I5zmKJyqt9VK__mzv6EO3Ug5NrMSD3Q") 20 30 stretch;
+  position: absolute;
+  top: 300px;
+  left: 150px;
+  font-family: 'Lato', sans-serif;
+}
+
+#title_1 {
+
+  font-family: 'Bangers', cursive;
+  
+}
+
+#title_2 {
+
+  font-family: 'Bangers', cursive;
+}
+
+#title_3 {
+
+  font-family: 'Bangers', cursive;
+}
+
+hr {
+  
+    border-width: 15px;
+    border-color: #58D3F7;
+}
+
+#h22 {
+    font-family: 'Chewy', cursive;
+    font-size: 20px;
+}
+
+ul, ol { 
+    margin-left:3.5em; 
+    padding-left:0px; 
+    
+}
+li { 
+    margin-bottom:1.5em; 
+    
+}
